@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\garry\\source\\repos\\AveMaria\\AveMaria.csproj": {}
+    "C:\\Users\\User\\Desktop\\git_exercise3\\AveMaria\\AveMaria\\AveMaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\garry\\source\\repos\\AveMaria\\AveMaria.csproj": {
+    "C:\\Users\\User\\Desktop\\git_exercise3\\AveMaria\\AveMaria\\AveMaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\garry\\source\\repos\\AveMaria\\AveMaria.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\git_exercise3\\AveMaria\\AveMaria\\AveMaria.csproj",
         "projectName": "AveMaria",
-        "projectPath": "C:\\Users\\garry\\source\\repos\\AveMaria\\AveMaria.csproj",
-        "packagesPath": "C:\\Users\\garry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\garry\\source\\repos\\AveMaria\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\git_exercise3\\AveMaria\\AveMaria\\AveMaria.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\git_exercise3\\AveMaria\\AveMaria\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\garry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -54,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.211\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

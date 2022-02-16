@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace AveMaria
 {
@@ -7,6 +8,12 @@ namespace AveMaria
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            string Alisa = "Genshin Impact";
+            Console.WriteLine(Alisa);
+
+            List <string> alisa = new List<string> {"Маша","Алиса","Егор" };
+
         }
     }
 }
