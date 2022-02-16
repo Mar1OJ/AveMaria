@@ -13,7 +13,7 @@ namespace AveMaria
             Console.WriteLine(Alisa);
 
             List <string> alisa = new List<string> {"Маша","Алиса","Егор" };
-
+            // я не умею программировать, вот. Всем спасибо за внимание!)
         }
     }
 }
