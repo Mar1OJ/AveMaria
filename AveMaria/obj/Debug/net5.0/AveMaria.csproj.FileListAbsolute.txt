@@ -1,0 +1,16 @@
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\bin\Debug\net5.0\AveMaria.exe
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\bin\Debug\net5.0\AveMaria.deps.json
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\bin\Debug\net5.0\AveMaria.runtimeconfig.json
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\bin\Debug\net5.0\AveMaria.runtimeconfig.dev.json
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\bin\Debug\net5.0\AveMaria.dll
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\bin\Debug\net5.0\ref\AveMaria.dll
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\bin\Debug\net5.0\AveMaria.pdb
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\obj\Debug\net5.0\AveMaria.csprojAssemblyReference.cache
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\obj\Debug\net5.0\AveMaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\obj\Debug\net5.0\AveMaria.AssemblyInfoInputs.cache
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\obj\Debug\net5.0\AveMaria.AssemblyInfo.cs
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\obj\Debug\net5.0\AveMaria.csproj.CoreCompileInputs.cache
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\obj\Debug\net5.0\AveMaria.dll
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\obj\Debug\net5.0\ref\AveMaria.dll
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\obj\Debug\net5.0\AveMaria.pdb
+C:\Users\garry\Desktop\AveMaria\AveMaria\AveMaria\AveMaria\obj\Debug\net5.0\AveMaria.genruntimeconfig.cache

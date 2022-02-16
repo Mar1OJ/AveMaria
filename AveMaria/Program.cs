@@ -7,13 +7,16 @@ namespace AveMaria
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
             string Alisa = "Genshin Impact";
             Console.WriteLine(Alisa);
 
             List <string> alisa = new List<string> {"Маша","Алиса","Егор" };
+
             // я не умею программировать, вот. Всем спасибо за внимание!)
+            
+            string egor = "я не умею программировать, вот. Всем спасибо за внимание!)";
+            string maria = "Поддерживаю Егора\a";
+            Console.WriteLine(egor + "\n" + maria);
         }
     }
 }
